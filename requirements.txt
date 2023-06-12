@@ -14,4 +14,3 @@ statsmodels==0.14.0
 plotly==5.14.1
 folium==0.14.0
 graphviz==0.17
---upgrade pip
