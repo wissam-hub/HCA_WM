@@ -1,24 +1,34 @@
+# import streamlit as st
+# import numpy as np
+# import pandas as pd
+# import time
+# import matplotlib.pyplot as plt
+# import seaborn as sns
+# from streamlit_lottie import st_lottie
+# import hydralit_components as hc
+# import requests
+# import inspect
+# from ydata_profiling import ProfileReport
+# from streamlit_pandas_profiling import st_profile_report
+# from numerize import numerize
+# from itertools import chain
+# import joblib
+# import statsmodels.api as sm
+# import plotly.graph_objects as go
+# import plotly.express as px
+# import folium
+
+# import graphviz as graph
+
 import streamlit as st
-import numpy as np
 import pandas as pd
-import time
 import matplotlib.pyplot as plt
-import seaborn as sns
-from streamlit_lottie import st_lottie
 import hydralit_components as hc
-import requests
-import inspect
-from ydata_profiling import ProfileReport
-from streamlit_pandas_profiling import st_profile_report
-from numerize import numerize
-from itertools import chain
-import joblib
-import statsmodels.api as sm
 import plotly.graph_objects as go
 import plotly.express as px
-import folium
-
 import graphviz as graph
+
+
 
 
 # Set Page Icon,Title, and Layout
