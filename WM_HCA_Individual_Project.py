@@ -8,7 +8,7 @@ from streamlit_lottie import st_lottie
 import hydralit_components as hc
 import requests
 import inspect
-from pandas_profiling import ProfileReport
+from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 from numerize import numerize
 from itertools import chain
